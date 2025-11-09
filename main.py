@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ================= SETTINGS =================
-TOKEN = "8346787985:AAFRHe2-IScAOmmYHhopSuD0uw-JKRDoej0"
+TOKEN = "8389943505:AAHXRM5cd1snn-TE5rRi7h15qy8JVZ72NIE"
 ADMINS = [7770767498]
 
 FILES_DIR = r"C:\Users\XPRISTO\Desktop\Unilack"
